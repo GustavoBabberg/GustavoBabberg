@@ -28,11 +28,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 🚀 Meus Projetos
 
-| Projeto               | Preview Online                                                                                 | Tecnologias Usadas       |
-|-----------------------|------------------------------------------------------------------------------------------------|--------------------------|
-| **Calculadora de Ohm**| [https://github.com/GustavoBabberg/Calculadora-de-Ohm]                                         | Java                     |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL                              |                         | 
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart                                         |                         |
+| Projeto                  | Preview Online                                                                                 | Tecnologias Usadas       |
+|--------------------------|------------------------------------------------------------------------------------------------|--------------------------|
+| **Calculadora de Ohm**   | [https://github.com/GustavoBabberg/Calculadora-de-Ohm]                                         |           Java           |
+| **Paginá com Bootstrap** | [https://github.com/GustavoBabberg/Pagina-com-bootstrap]                                       |     HTML5 / Bootstrap    | 
+| **Jogo da advinhação**   | [https://github.com/GustavoBabberg/JogoDaAdvinhacao]                                           |           Java           |
 
 ---
 
@@ -46,3 +46,5 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ---
 
 ## 📫 Como me encontrar
+- Celular: +55 (11) 99839-3476
+- Email: gustavo.babberg@gmail.com
