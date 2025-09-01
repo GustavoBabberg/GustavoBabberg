@@ -30,9 +30,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                                                                                 | Tecnologias Usadas       |
 |-----------------------|------------------------------------------------------------------------------------------------|--------------------------|
-| **Calculadora de Ohm** | [🔗 Ver online]([https://github.com/GustavoBabberg/Calculadora-de-Ohm]) | Java                    |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Calculadora de Ohm**| [https://github.com/GustavoBabberg/Calculadora-de-Ohm]                                         | Java                     |
+| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL                              |                         | 
+| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart                                         |                         |
 
 ---
 
