@@ -35,7 +35,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Paginá com Bootstrap**      | [https://github.com/GustavoBabberg/Pagina-com-bootstrap]                                       |     HTML5 / Bootstrap    | 
 | **Jogo da advinhação**        | [https://github.com/GustavoBabberg/JogoDaAdvinhacao]                                           |           Java           |
 | **Jogo da advinhação mobile** | [https://github.com/GustavoBabberg/Jogo-de-advinhacao-mobile-com-android-studio]               |    Java / AndroidStudio  |
-| **Site-com-bootstrao-2**      | [https://github.com/GustavoBabberg/Site-com-bootstrap]                                         | HTML5 / CSS3 / Bootstrap |
+| **Site-com-bootstrap-2**      | [https://github.com/GustavoBabberg/Site-com-bootstrap]                                         | HTML5 / CSS3 / Bootstrap |
 
 ---
 
