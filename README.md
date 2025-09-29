@@ -39,7 +39,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Login com node-js**                      | [https://github.com/GustavoBabberg/Projeto---login-com-nodejs]                                 |  Node-JS / HTML5 / CSS3  |
 | **Aplicativo de jokempo**                  | [https://github.com/GustavoBabberg/App-Jokempo-com-Java]                                       |   Java / AndroidStudio   |
 | **Site de construção civil com bootstrap** | [https://github.com/GustavoBabberg/-site-de-construcao-civil-com-bootstrap]                    |    HTML5 / Bootstrap     |
-
+| **Projeto de controle de estoque**         | [https://github.com/GustavoBabberg/Sistema-de-controle-de-estoque]                             |   Python / Bibliotecas   |
 ---
 
 ## 💡 Sobre Mim
