@@ -41,6 +41,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Site de construção civil com bootstrap** | [https://github.com/GustavoBabberg/-site-de-construcao-civil-com-bootstrap]                    |                 HTML5 / Bootstrap                  |
 | **Projeto de controle de estoque**         | [https://github.com/GustavoBabberg/Sistema-de-controle-de-estoque]                             |                Python / Bibliotecas                |
 | **Jogo bandeira**                          | [https://github.com/GustavoBabberg/Jogo-bandeira]                                              | HTML5 / CSS3 / JS / JSON / API / NODE.js / EXPRESS |
+| **Site biologia citologia**                | [https://github.com/GustavoBabberg/biologia-explorando-a-celula]                               |             HTML5 / CSS3 / JS / BOOTSTRAP          |
 ---
 
 ## 💡 Sobre Mim
