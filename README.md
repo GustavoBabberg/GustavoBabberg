@@ -42,6 +42,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Projeto de controle de estoque**         | [https://github.com/GustavoBabberg/Sistema-de-controle-de-estoque]                             |                Python / Bibliotecas                |
 | **Jogo bandeira**                          | [https://github.com/GustavoBabberg/Jogo-bandeira]                                              | HTML5 / CSS3 / JS / JSON / API / NODE.js / EXPRESS |
 | **Site biologia citologia**                | [https://github.com/GustavoBabberg/biologia-explorando-a-celula]                               |             HTML5 / CSS3 / JS / BOOTSTRAP          |
+| **Controle de estoque com tkinter**        | [https://github.com/GustavoBabberg/estoque_python_com_tkinter]                                 |                     Python, SQL                    |
 ---
 
 ## 💡 Sobre Mim
